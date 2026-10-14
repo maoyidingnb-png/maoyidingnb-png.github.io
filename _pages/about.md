@@ -8,7 +8,7 @@ redirect_from:
 
 <style>
   .hp-header { display:flex; flex-wrap:wrap; align-items:center; gap:2em; margin:1em 0 2.2em; }
-  .hp-photo { width:170px; height:170px; border-radius:50%; object-fit:cover; flex-shrink:0; box-shadow:0 2px 10px rgba(0,0,0,.12); }
+  .hp-photo { width:180px; height:auto; border-radius:10px; flex-shrink:0; box-shadow:0 2px 10px rgba(0,0,0,.12); }
   .hp-info { flex:1; min-width:240px; }
   .hp-info h1 { margin:0 0 .25em; font-size:2em; }
   .hp-info p { margin:.15em 0; }
@@ -31,7 +31,7 @@ redirect_from:
 </style>
 
 <div class="hp-header">
-  <img class="hp-photo" src="/images/profile.jpg" alt="Yiding Mao">
+  <img class="hp-photo" src="/images/profile-portrait.jpg" alt="Yiding Mao">
   <div class="hp-info">
     <h1>Yiding Mao</h1>
     <p class="hp-role">BSc Statistics</p>
