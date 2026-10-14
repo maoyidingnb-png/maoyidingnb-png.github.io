@@ -23,7 +23,7 @@ repository               : "maoyidingnb-png/maoyidingnb-png.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yiding Mao"
   pronouns         : # example: "she/her"  
   bio              : "Statistics undergraduate working on world models and reinforcement learning"
