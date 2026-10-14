@@ -7,11 +7,12 @@ redirect_from:
 ---
 
 <div style="text-align:center; margin: 1em 0 2em;">
-  <img src="/images/profile.png" alt="Max [SURNAME]" style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
-  <h1 style="margin: 0.6em 0 0.2em;">Max [SURNAME]</h1>
+  <img src="/images/profile.png" alt="Yiding Mao" style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
+  <h1 style="margin: 0.6em 0 0.2em;">Yiding Mao</h1>
   <p style="margin:0;">BSc Statistics</p>
   <p style="margin:0;">University of Nottingham Ningbo China &amp; University of Nottingham</p>
   <p style="margin-top:0.8em;">
+    <a href="mailto:smyym8@nottingham.ac.uk">Email</a> ·
     <a href="https://github.com/maoyidingnb-png">GitHub</a> ·
     <a href="/files/CV.pdf">CV</a>
   </p>

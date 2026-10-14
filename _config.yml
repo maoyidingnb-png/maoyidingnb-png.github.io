@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Max [SURNAME]"
+title                    : "Yiding Mao"
 title_separator          : "-"
-name                     : &name "Max [SURNAME]"
-description              : &description "Max [SURNAME] - world models, reinforcement learning and reliable ML"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yiding Mao"
+description              : &description "Yiding Mao - world models, reinforcement learning and reliable ML"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://maoyidingnb-png.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "maoyidingnb-png/maoyidingnb-png.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Max [SURNAME]"
+  name             : "Yiding Mao"
   pronouns         : # example: "she/her"  
   bio              : "Statistics undergraduate working on world models and reinforcement learning"
   location         : "Ningbo, China"
   employer         : "University of Nottingham Ningbo China"
   uri              : # URL
-  email            : # "your.email@example.com" 
+  email            : "smyym8@nottingham.ac.uk" 
 
   # Academic websites
   academia         : # URL
