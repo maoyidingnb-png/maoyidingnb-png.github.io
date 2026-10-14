@@ -1,28 +1,26 @@
 ---
 permalink: /
-title: "About Me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Statistics undergraduate at the University of Nottingham Ningbo China and the University of Nottingham, ranked in the top 5% of my cohort. My interests lie in world models, reinforcement learning, and how learned models can tell when their own predictions should not be trusted.
+<div style="text-align:center; margin: 1em 0 2em;">
+  <img src="/images/profile.png" alt="Max [SURNAME]" style="width:160px; height:160px; border-radius:50%; object-fit:cover;">
+  <h1 style="margin: 0.6em 0 0.2em;">Max [SURNAME]</h1>
+  <p style="margin:0;">BSc Statistics</p>
+  <p style="margin:0;">University of Nottingham Ningbo China &amp; University of Nottingham</p>
+  <p style="margin-top:0.8em;">
+    <a href="https://github.com/maoyidingnb-png">GitHub</a> ·
+    <a href="/files/CV.pdf">CV</a>
+  </p>
+</div>
 
-Research
-======
+I am a Statistics undergraduate at the University of Nottingham Ningbo China and the University of Nottingham, ranked in the top 5% of my cohort. My work moves from statistical modelling of real-world data, through reinforcement learning for sequential decisions, to world models for autonomous systems. I am interested in how learned models can tell when their own predictions should not be trusted.
 
-**Deep Reinforcement Learning for Supply-Chain Disruption**  
-*Supervised by Dr. Ruijing Wu*  
-I modelled a two-echelon instant-retail network of one central warehouse, ten forward warehouses and five product categories as a Markov decision process, and benchmarked DQN, DDQN, Dueling DQN, D3QN and PPO. Common Random Numbers and multi-seed evaluation keep the comparison fair under stochastic demand and lead times. [[Code]](https://github.com/maoyidingnb-png/rl_supply_chain)
+## Research Interests
 
-**World Models for Autonomous Navigation**  
-*Supervised by Dr. Huan Jin*  
-I built a spatiotemporally aligned dataset of over 20,000 frames from about 80 GB of campus video and sensor data, reproduced a CDiT-based navigation world model, and trained the NoMaD diffusion policy.
-
-Experience
-======
-
-* **Zhejiang Humanoid Robot Innovation Center**: robot data platform validation; LLM-based automated code review system
-* **BOE Technology Group**: employee attrition modelling
-* **Donghai Insurance**: claim frequency and severity modelling
+* **World models for autonomous navigation**: learning how the world evolves from real video and sensor data, and when multi-step predictions can be trusted. *With Dr. Huan Jin's group.*
+* **Reinforcement learning under uncertainty**: sequential decision-making in stochastic supply chains, with fair evaluation through Common Random Numbers and multi-seed experiments. *Supervised by Dr. Ruijing Wu.* [[Code]](https://github.com/maoyidingnb-png/rl_supply_chain)
+* **Reliable machine learning**: validating data, models and evaluation methods so that results hold up outside the training setting.
